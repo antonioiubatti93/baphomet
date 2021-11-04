@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/antonioiubatti93/abraxas/logger v0.0.0-20211104104435-ec0c4c475dcd
-	github.com/antonioiubatti93/baphomet v0.3.0
+	github.com/antonioiubatti93/baphomet/logger v0.0.0-20211104110036-55ade6439d8a
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 )
