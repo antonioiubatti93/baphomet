@@ -1,4 +1,4 @@
-package baphomet
+package logger
 
 // Logger defines a minimal logger.
 type Logger interface {
