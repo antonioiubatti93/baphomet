@@ -1,4 +1,4 @@
-module antonioiubatti93/baphomet
+module github.com/antonioiubatti93/baphomet
 
 go 1.17
 
